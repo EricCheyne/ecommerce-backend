@@ -3,5 +3,5 @@
 ## Technology Stack
 - Java
 - Spring Boot 3
-- SQL Server
+- MySql
 - Hibernate
