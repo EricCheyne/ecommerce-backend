@@ -11,7 +11,7 @@
 	<groupId>com.cheyne</groupId>
 	<artifactId>ecommerce-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>ecommerce-backend</name>
 	<description>Our REST API Backend for the e-commerce solution</description>
 	<url/>
