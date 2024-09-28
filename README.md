@@ -1,7 +1,9 @@
 # E-commerce Store Backend
 
 ## Technology Stack
-- Java
-- Spring Boot 3
+- Angular
+  - Front-end web framework
+- Spring
+  - Back-end API server
 - MySql
-- Hibernate
+  - Database engine
